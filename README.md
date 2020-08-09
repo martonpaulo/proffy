@@ -1,5 +1,9 @@
 # Proffy
 
+<p align="center">
+  <img src="./mockup.png" alt="Mockup">
+</p>
+
 <br />
 
 
