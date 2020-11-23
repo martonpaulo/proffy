@@ -42,3 +42,12 @@ $ cd mobile
 $ yarn                # create dependencies
 $ yarn start          # initialize mobile application
 ```
+<br />
+
+<div>
+  <img src="./mobile/screenshot1.jpg" width="25%" />
+  <img src="./mobile/screenshot1.jpg" width="2%" />
+  <img src="./mobile/screenshot2.jpg" width="25%" />
+  <img src="./mobile/screenshot1.jpg" width="2%" />
+  <img src="./mobile/screenshot3.jpg" width="25%" />
+</div>
